@@ -96,7 +96,7 @@ Paperskill/
 
 ## 使用方式
 
-将此 skill 安装到你的 AI 助手中（HanaAgent 直接放入 skills 目录），触发场景包括：
+将此 skill 安装到你的 AI 助手中，触发场景包括：
 
 - 本科毕设论文写作
 - 系统设计与实现类论文
